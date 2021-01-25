@@ -4,6 +4,18 @@
 #  
 #  08JAN2021  Attempt to add file read function to "vector_sequence_14.py"
 #  11JAN2021  Attempting to add nested FOR loop for applying test vectors ("vector_sequence_19.py")
+#  20JAN2021 17:28  Just added this comment.
+
+#  This file was modified on the local drive 22JAN2021 15:05.
+#  The file is "vector_sequence_28D.py"
+
+#  This file was modified on GitHub 22JAN2021 16:07.
+#  The file is "vector_sequence_28D.py"
+
+#  The file is "vector_sequence_28D.py"
+
+#  Commented on local drive 22JAN2021 18:30
+
 
 
 #!/usr/bin/env python3
